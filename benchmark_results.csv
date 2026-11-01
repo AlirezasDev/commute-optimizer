@@ -1,0 +1,5 @@
+algorithm,best_cost_minutes,departure,path,average_runtime_seconds,average_iterations,seeds
+Hill Climbing,41.77261734682702,08:45,Home -> B1 -> B2 -> H2 -> Uni,0.0186347269999942,48.8,5
+Simulated Annealing,41.77261734682702,08:45,Home -> B1 -> B2 -> H2 -> Uni,0.16292249820000962,1457,5
+Local Beam Search,41.77261734682702,08:45,Home -> B1 -> B2 -> H2 -> Uni,0.00421845759997268,2.2,5
+Genetic Algorithm,41.77261734682702,08:45,Home -> B1 -> B2 -> H2 -> Uni,0.2964677437999853,120,5
